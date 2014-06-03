@@ -1,0 +1,10 @@
+#wpadminbar .dlb-ab {
+  background: url("../images/logo-dlb-small.png") no-repeat 50% 50%;
+  height: 24px;
+  line-height: 28px;
+  cursor: pointer;
+  width: 48px;
+  display: block;
+  top: 4px;
+  position: relative;
+}
